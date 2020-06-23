@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 - Databases:
   - MongoDB Atlas. Get Free 512MB cloud cluster [here](https://www.mongodb.com/cloud/atlas)
-  - Heroku PostgreSQ. Get cloud database for non-comercial apps [here](https://www.mongodb.com/cloud/atlas)
+  - Heroku PostgreSQL. Get cloud database for non-comercial apps [here](https://www.mongodb.com/cloud/atlas)
 
 ## License
 
