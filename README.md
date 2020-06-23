@@ -1,7 +1,6 @@
 # Building-Big-Data-Infrastucture-using-NoSQL-and-SQL
 Big Data Pltaform on MongoDB Atlas and Heroku PostgreSQL
 
-
 ## Background
 
 The motivation behind this project is I see a lot of big data datasets on the internet, people used for data analysis and machine learning, so this time I am interested to build what is behind these big datasets and how to build big data infrastructure. 
@@ -13,7 +12,6 @@ The motivation behind this project is I see a lot of big data datasets on the in
 - Last, building dashboards and connecting to Databricks.
 
 ![methodology](/assets/data_pipeline.png)
-
 
 ## Tech Stack and Implementation
 
